@@ -110,6 +110,7 @@
      <Compile Include="Assets\Shadowood\Post\ShadowoodExposure.cs" />
      <Compile Include="Assets\Shadowood\Post\ShadowoodVignette.cs" />
      <Compile Include="Assets\SimpleMoveScript.cs" />
+     <Compile Include="Assets\demo_scripts\MakeTube.cs" />
      <None Include="Assets\MagicMirror\Prefab\MirrorShaderOld.shader" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
